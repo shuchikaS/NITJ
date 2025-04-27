@@ -1,0 +1,21 @@
+﻿Color,Weight (g),Sweetness (1-10),Acidity (pH),Class
+Red,150,7,3.5,Pome Fruit
+Green,140,6,3.7,Pome Fruit
+Red,160,8,3.6,Pome Fruit
+Yellow,145,7,3.8,Pome Fruit
+Green,155,7,3.5,Pome Fruit
+Yellow,120,9,4.5,Tropical Fruit
+Yellow,110,8,4.6,Tropical Fruit
+Yellow,130,9,4.4,Tropical Fruit
+Orange,200,10,4.1,Tropical Fruit
+Brown,900,8,3.9,Tropical Fruit
+Orange,200,6,3,Citrus Fruit
+Orange,190,7,3.1,Citrus Fruit
+Yellow,180,4,2.8,Citrus Fruit
+Green,170,5,2.9,Citrus Fruit
+Green,195,7,3.1,Citrus Fruit
+Purple,5,8,3.4,Berry
+Purple,6,9,3.3,Berry
+Purple,4,7,3.5,Berry
+Red,5,8,3.2,Berry
+Purple,6,9,3.1,Berry
